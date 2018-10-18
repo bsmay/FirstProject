@@ -1,13 +1,34 @@
-body{background:hotpink; color:saddlebrown; }
-#firstparagraph {color:purple;
-                font-size: 36px;
+body{background:hotpink; color:burlywood; }
+#first {color:purple;
+                font-size: 42px;
                 font-weight: bold;
                 text-align:center;
                 font-family: fantasy}
-.others {color: aqua;
+#second {color:black;
          font-size: 42px;
-         text-align: right}
-#lastword {font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif}
+         text-align: center; 
+         font-family: fantasy}
+#third {color:yellow;
+        font-size:42px;
+        font-weight: bold;
+        font-family: fantasy
+        }
+#fourth {color: lightskyblue;
+         font-size:42px;
+         font-weight: bold;
+         font-family: fantasy;
+         text-align: center}
+#fifth {color: white;
+        font-size:42px;
+        font-weight: bold;
+        font-family: fantasy}
+#sixth {color:lightskyblue;
+        font-size:42px;
+        font-weight: bold;
+        font-family: fantasy;
+        text-align: center}
+#lastword {font-family:cursive; color: white}
 .headers {color: whitesmoke;
-            text-align: center}
+            text-align: right;
+             font-size: 12px}
 #first {font-size: 55px}
